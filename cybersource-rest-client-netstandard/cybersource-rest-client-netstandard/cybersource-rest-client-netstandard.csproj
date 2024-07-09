@@ -8,7 +8,7 @@
     <Company>CyberSource</Company>
     <Description>A library generated from a Swagger doc</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>CyberSource.Rest.Client.NetStandard</PackageId>
+    <PackageId>GSCCCA.CyberSource.Rest.Client.NetStandard</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
